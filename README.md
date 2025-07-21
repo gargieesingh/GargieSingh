@@ -2,7 +2,7 @@
 
 ### 👋 Hi there!
 
-#### I'm a computer science undergrad currently exploring **_DSA_**, **Full Stack Web Development**, and **Python**. I love building hands-on projects and sharing my journey in tech!
+#### I'm a computer science undergrad currently exploring **_DSA_**, **_Full Stack Web Development_**, and **_Python_**. I love building hands-on projects and sharing my journey in tech!
 
 
 ### 💻 Tech Stack

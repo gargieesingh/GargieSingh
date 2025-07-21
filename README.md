@@ -1,4 +1,4 @@
-# GargieSingh
+# gargieesingh
 
 ### 👋 Hi there! I'm Gargie Singh
 I'm a computer science undergrad currently exploring **DSA**, **Full Stack Web Development**, and **Python**. I love building hands-on projects and sharing my journey in tech!

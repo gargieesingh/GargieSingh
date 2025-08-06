@@ -20,9 +20,6 @@
 
 <div align="center">
   <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=gargieesingh&theme=nightowl&hide_border=true&fire=FF4500" />
-  
-  <br /><br />
-  
   <img width="250" src="https://github-readme-stats.vercel.app/api?username=gargieesingh&show_icons=true&theme=nightowl&hide_title=true&icon_color=F7DF1E&card_width=250&hide_border=true" />
   <img width="250" height="95" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargieesingh&layout=compact&theme=nightowl&hide_border=true" />
 </div>

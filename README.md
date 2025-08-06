@@ -19,9 +19,14 @@
 ### 🚀 My GitHub Stats
 
 <p align="center">
-  ![GitHub Streak](https://img.shields.io/badge/dynamic/json?color=blue&label=GitHub%20Streak&query=streak&url=https://streak-stats.demolab.com/?user=gargieesingh)
-  <img width="250" src="https://github-readme-stats.vercel.app/api?username=gargieesingh&show_icons=true&theme=nightowl&hide_title=true&icon_color=F7DF1E&card_width=250&hide_border=true" />
-  <img width="250" height="95" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargieesingh&layout=compact&theme=nightowl&hide_border=true" />
+  <p>
+    
+   ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=gargieesingh&theme=nightowl&hide_border=true&fire=FF4500)
+  </p>
+  <p>
+    <img width="250" src="https://github-readme-stats.vercel.app/api?username=gargieesingh&show_icons=true&theme=nightowl&hide_title=true&icon_color=F7DF1E&card_width=250&hide_border=true" />
+    <img width="250" height="95" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargieesingh&layout=compact&theme=nightowl&hide_border=true" />
+  </p>
 </p>
 
 
